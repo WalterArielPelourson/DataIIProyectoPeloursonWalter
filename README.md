@@ -28,4 +28,5 @@ A medida que avancemos en nuestro análisis, tejeremos una historia en torno a n
 
 Comencemos la Aventura...
 
-keyboard_arrow_down
+Ruta Drive:
+https://drive.google.com/drive/folders/1TwUhVI3tW75GGWc-kd57bO6n8cIO1JHr?usp=drive_link
